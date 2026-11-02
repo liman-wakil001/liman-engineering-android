@@ -1,0 +1,17 @@
+{
+  "name": "liman-engineering-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android wrapper for Liman Engineering Company",
+  "scripts": {
+    "build": "echo Android wrapper uses the live Liman Engineering website"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "typescript": "^5.8.3"
+  }
+}
